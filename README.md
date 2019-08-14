@@ -1,4 +1,5 @@
 # Sales-Per-Day-Prediction
+Raw data (data.csv) has been collected from an German online store with 18207 total instances. The main motivation is to predict sales per day based on those instances which basically a regression problem. Below this part, all the necessary steps is discussed which has done during solve this problem.
 
 ## Data Preprocessing and Feature Selection
 Raw dataset consist of total seven independent features with target variable (dependent). Before dive into to the machine learning (ML) model it's necessary to prepare raw data and make it switable for the machine learning (ML) algorithm.
